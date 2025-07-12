@@ -19,7 +19,7 @@ app.add_middleware(
 # File paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATH = os.path.join(BASE_DIR, "rf_model.pkl")
-SCALER_PATH = os.path.join(BASE_DIR, "pm25_scaler_params.json")
+SCALER_PATH = os.path.join(BASE_DIR, "pm25_scalar_params.json")
 FEATURES_PATH = os.path.join(BASE_DIR, "feature_names.json")
 
 # Load model
