@@ -1,0 +1,21 @@
+[
+    "hole_diameter_mm",
+    "hole_depth_m",
+    "spacing_m",
+    "burden_m",
+    "charge_weight_kg",
+    "rock_density_g_cm3",
+    "moisture_percent",
+    "temperature_c",
+    "wind_speed_m_s",
+    "wind_direction_deg",
+    "humidity_percent",
+    "explosive_type_ANFO",
+    "explosive_type_emulsion",
+    "rock_type_granite",
+    "rock_type_limestone",
+    "rock_type_sandstone",
+    "dust_suppression_chemical",
+    "dust_suppression_none",
+    "dust_suppression_water_spray"
+]

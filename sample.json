@@ -1,0 +1,23 @@
+{
+  "features": {
+    "hole_diameter_mm": 120,
+    "hole_depth_m": 12,
+    "spacing_m": 3,
+    "burden_m": 2.5,
+    "charge_weight_kg": 50,
+    "rock_density_g_cm3": 2.5,
+    "moisture_percent": 0.5,
+    "temperature_c": 25,
+    "wind_speed_m_s": 5,
+    "wind_direction_deg": 180,
+    "humidity_percent": 60,
+    "explosive_type_ANFO": 1,
+    "explosive_type_emulsion": 0,
+    "rock_type_granite": 0,
+    "rock_type_limestone": 1,
+    "rock_type_sandstone": 0,
+    "dust_suppression_none": 0,
+    "dust_suppression_water_spray": 1,
+    "dust_suppression_chemical": 0
+  }
+}
